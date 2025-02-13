@@ -1,6 +1,3 @@
-# Restaurant-Data-ML-Project-2024
-<<<<<<< HEAD
-My first SK-Learn Project using Restaurant Dataset from Kaggle
-=======
-First ever ML project using restaurant dataset from Kaggle. Using sk-Learn
->>>>>>> master
+This is my first attempt at an ML project with SK-Learn 
+using resturant data I found on Kaggle.
+12/12/2024 project finish
